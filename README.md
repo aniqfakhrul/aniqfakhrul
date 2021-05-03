@@ -10,7 +10,7 @@ Check my Cheatsheet here at [https://github.com/aniqfakhrul/archives](https://gi
 
 ## About Me
 
-<img align="right" width=400 alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width=400 alt="GIF" src="https://media.discordapp.net/attachments/710377054398447636/838654139323777024/create-an-animated-gif-pixelstyle-chibi-avatar.gif" />
 
 I'm **Aniq Fakhrul**, a **cyber security student** living in **Malaysia**. 
 
