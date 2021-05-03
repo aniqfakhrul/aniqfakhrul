@@ -19,7 +19,7 @@ I do infosec research for fun before enrolling into the real industries. My inte
 <break>
  
 ![0xch4rm](https://www.hackthebox.eu/badge/image/230714)
-<img src="https://tryhackme-badges.s3.amazonaws.com/ch4rm.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/19164"></script>
 
 ## Languages and Tools
 
