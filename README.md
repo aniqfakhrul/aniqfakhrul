@@ -4,9 +4,9 @@
 <a href="https://twitter.com/aniqfakhrul" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/aniqfakhrul/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-Check my blog at [https://aniqfakhrul.com](https://aniqfakhrul.com)!
+Check my blog at [https://aniqfakhrul.com](https://aniqfakhrul.com)
 
-Check my Cheatsheet here at [https://github.com/aniqfakhrul/archives](https://github.com/aniqfakhrul/archives)!
+Check my Cheatsheet here at [https://github.com/aniqfakhrul/archives](https://github.com/aniqfakhrul/archives)
 
 ## About Me
 
