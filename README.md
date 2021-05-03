@@ -19,7 +19,6 @@ I do infosec research for fun before enrolling into the real industries. My inte
 <break>
  
 ![0xch4rm](https://www.hackthebox.eu/badge/image/230714)
-<script src="https://tryhackme.com/badge/19164"></script>
 
 ## Languages and Tools
 
