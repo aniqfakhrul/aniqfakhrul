@@ -4,9 +4,7 @@
 <a href="https://twitter.com/aniqfakhrul" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/aniqfakhrul/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-Check my blog at [https://aniqfakhrul.com](https://aniqfakhrul.com)
-
-Check my Cheatsheet here at [https://github.com/aniqfakhrul/archives](https://github.com/aniqfakhrul/archives)
+Check my blog at [https://aniqfakhrul.com](https://nixhub.wiki)
 
 ## About Me
 
@@ -14,7 +12,7 @@ Check my Cheatsheet here at [https://github.com/aniqfakhrul/archives](https://gi
 
 I'm **Aniq Fakhrul**, a **cyber security student** living in **Malaysia**. 
 
-I do infosec research for fun before enrolling into the real industries. My interest is more to red-teaming or Active Directory Pentesting. I also do Tryhackme and Hackthebox when im free. Check out my profiles
+Just a code dump for my new infosec ideas. Feel free to contribute!
 
 <break>
  
